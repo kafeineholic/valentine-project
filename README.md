@@ -22,7 +22,7 @@ Valentine Project is an iOS application built using Xcode that brings a fun and 
 ## Installation
 1. Clone this repository to your local machine:
    ```sh
-   git clone https://github.com/yourusername/valentine-project.git
+   git clone https://github.com/kafeineholic/valentine-project.git
    ```
 2. Open the project in **Xcode**.
 3. Ensure the video and contact screen files are properly uploaded into the project directory.
